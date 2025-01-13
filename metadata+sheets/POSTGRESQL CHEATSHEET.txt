@@ -2,6 +2,8 @@ SQL CHEATSHEET
 
 mockaroo to generate mock datasets
 
+psql -U "postgres"		to connect to your local server
+
 \pset pager off		remove --more--
 
 \! cls			clear the terminal
