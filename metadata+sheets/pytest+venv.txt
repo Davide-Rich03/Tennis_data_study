@@ -1,3 +1,7 @@
+to automatically dependencies to requirements txt use the command     "pip freeze > requirements.txt"
+
+
+
 to use pytest simply call the command "pytest" in the directory where you keep your test folder.
 
 pytest search all the directories that contain the name test and will look for all the files with a specific notation:
